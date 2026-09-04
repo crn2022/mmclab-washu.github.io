@@ -1,0 +1,5 @@
+/.quarto/
+/_site/
+/pip-metadata-*/
+/pip-unpack-*/
+.DS_Store

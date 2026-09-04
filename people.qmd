@@ -1,0 +1,59 @@
+---
+title: "People"
+description: "Members of the Multimodal Cognitive Neuroscience Lab."
+toc: false
+---
+
+## Principal investigator
+
+::: {.person-card}
+::: {.person-initials aria-hidden="true"}
+RC
+:::
+
+::: {.person-copy}
+### Runnan Cao, PhD
+
+**Principal Investigator · Assistant Professor in Radiology**  
+Neuroimaging Labs Research Center  
+Mallinckrodt Institute of Radiology, WashU Medicine
+
+Dr. Cao is a cognitive computational neuroscientist investigating the neural mechanisms of visual and social cognition. Her research examines how the human brain encodes faces and objects, how visual perception supports memory and higher-level social judgments, and how these processes may differ in clinical conditions. She combines human single-neuron recordings, intracranial EEG, fMRI, eye tracking, behavioral experiments, and computational modeling.
+
+Dr. Cao earned her PhD in cognitive neuroscience from the Institute of Biophysics, Chinese Academy of Sciences. She is a recipient of an NIH K99/R00 Pathway to Independence Award and has been recognized by the Brain & Behavior Research Foundation and Washington University’s neuroscience community.
+
+[Official WashU Medicine profile](https://www.mir.wustl.edu/employees/runnan-cao/){.btn .btn-sm .btn-primary}
+[WashU research profile](https://profiles.wustl.edu/en/persons/runnan-cao/){.btn .btn-sm .btn-outline-primary}
+[ORCID](https://orcid.org/0000-0001-5827-9903){.btn .btn-sm .btn-outline-primary}
+:::
+:::
+
+## Lab members
+
+::: {.people-grid}
+::: {.person-card}
+::: {.person-initials aria-hidden="true"}
+YW
+:::
+
+::: {.person-copy}
+### Yue Wang, PhD
+
+**Postdoctoral Researcher**
+:::
+:::
+
+::: {.person-card}
+::: {.person-initials aria-hidden="true"}
+YL
+:::
+
+::: {.person-copy}
+### Yilin Li
+
+**PhD Student**
+:::
+:::
+:::
+
+The MCN Lab brings together researchers in cognitive neuroscience, neuroimaging, electrophysiology, computation, and artificial intelligence.

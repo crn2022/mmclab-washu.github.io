@@ -1,0 +1,50 @@
+---
+title: "Join Us"
+description: "Postdoctoral and trainee opportunities in the Multimodal Cognitive Neuroscience Lab."
+---
+
+## Postdoctoral opportunities
+
+The Multimodal Cognitive Neuroscience Lab at Washington University in St. Louis is recruiting **two highly motivated postdoctoral researchers** to study the neural and computational mechanisms of human cognition.
+
+### We are looking for
+
+Candidates should have:
+
+- A doctoral degree in neuroscience, cognitive science, psychology, biomedical engineering, computer science, or a related field by the anticipated start date
+- A strong background in fMRI and/or electrophysiology
+- Interest in cognitive computational neuroscience and multimodal research
+- Evidence of rigorous quantitative research and scientific communication
+- Ability to collaborate effectively in an interdisciplinary environment
+
+Experience in one or more of the following areas is especially welcome:
+
+- 7T fMRI
+- Computational modeling
+- Eye tracking
+- Agentic AI and AI-assisted scientific workflows
+- Reproducible neuroimaging or electrophysiology data processing
+- Advanced statistical or machine-learning methods
+
+### Why Washington University?
+
+The lab is based in the [Neuroimaging Labs Research Center](https://www.mir.wustl.edu/research/research-centers/neuroimaging-labs-research-center-nil-rc/) at Mallinckrodt Institute of Radiology, WashU Medicine. The center brings together faculty, students, postdoctoral researchers, and staff from multiple departments and supports interdisciplinary work in cognitive, clinical, systems, developmental, and computational neuroscience. Researchers have access to a broad neuroimaging community, advanced imaging resources, and extensive opportunities for collaboration and career development.
+
+### How to inquire
+
+Please send the following materials to **r.cao [at] wustl.edu**:
+
+1. A brief cover letter describing your research interests and fit with the lab
+2. Curriculum vitae
+3. Contact information for three references
+4. One or two representative publications or preprints
+
+Applications will be reviewed on a rolling basis until the positions are filled.
+
+Appointment details, start dates, compensation, benefits, and formal application procedures will follow Washington University policies and will be discussed with candidates during the recruitment process.
+
+Washington University in St. Louis is committed to the principles and practices of equal employment opportunity. Qualified applicants receive consideration without regard to race, ethnicity, color, national origin, citizenship where protected by law, age, religion, sex, sexual orientation, gender identity or expression, disability, protected veteran status, or genetic information.
+
+## Students and research staff
+
+Prospective students and research staff may contact us with a concise description of their interests, relevant experience, and availability. Openings will be posted here when available.

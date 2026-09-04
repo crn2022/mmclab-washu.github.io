@@ -1,0 +1,51 @@
+project:
+  type: website
+
+website:
+  title: "Multimodal Cognitive Neuroscience Lab"
+  site-url: "https://crn2022.github.io/mmclab-washu.github.io/"
+  description: "The MCN Lab at WashU Medicine studies how the human brain transforms visual information into meaningful representations supporting social cognition, memory, and learning."
+  open-graph: true
+  search: true
+  page-navigation: true
+  back-to-top-navigation: true
+  navbar:
+    title: "MCN Lab"
+    background: "#102a43"
+    foreground: "#ffffff"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: people.qmd
+        text: People
+      - href: publications.qmd
+        text: Publications
+      - href: news.qmd
+        text: News
+      - href: join.qmd
+        text: Join Us
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: "https://github.com/crn2022/mmclab-washu.github.io"
+        aria-label: "MCN Lab website source on GitHub"
+  page-footer:
+    border: true
+    left: "© 2026 Multimodal Cognitive Neuroscience Lab"
+    center: "Mallinckrodt Institute of Radiology · WashU Medicine"
+    right:
+      - text: "Contact"
+        href: contact.qmd
+      - text: "GitHub"
+        href: "https://github.com/crn2022/mmclab-washu.github.io"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    link-external-newwindow: true
+    smooth-scroll: true

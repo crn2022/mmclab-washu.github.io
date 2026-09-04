@@ -1,0 +1,26 @@
+---
+title: "News"
+description: "News and updates from the Multimodal Cognitive Neuroscience Lab."
+---
+
+## Lab updates
+
+### September 2026 · The MCN Lab is recruiting
+
+We are seeking two postdoctoral researchers interested in cognitive computational neuroscience and multimodal approaches to understanding the human brain. [Learn more about the opportunities](join.qmd).
+
+### August 2026 · New review of visual-to-memory transformations
+
+A new review proposes a computational framework for how the brain transforms visual feature codes into sparse, concept-based representations in the medial temporal lobe. [Read the review](https://doi.org/10.1016/j.neubiorev.2026.106782).
+
+### February 2026 · New study of visual object coding
+
+A new *Nature Communications* study integrates intracranial EEG, human single-neuron recordings, and computational modeling to characterize how visual object information is transformed across the human temporal lobe. [Read the paper](https://doi.org/10.1038/s41467-026-68954-8).
+
+### August 2025 · Brain cells link facial features with identity
+
+Research led by Runnan Cao identified neurons that bridge visual facial features with identity representations and memory. The work appeared in *Nature Human Behaviour*. [Read the WashU research story](https://neuroscienceresearch.wustl.edu/researchers-identify-brain-cells-key-to-facial-recognition/).
+
+### September 2026 · Website launch
+
+Welcome to the new website of the Multimodal Cognitive Neuroscience Lab at Washington University in St. Louis.

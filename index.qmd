@@ -1,0 +1,66 @@
+---
+title: "Multimodal Cognitive Neuroscience Lab"
+subtitle: "Connecting brain, behavior, and computation"
+description: "Researching human cognition through multimodal neuroimaging, electrophysiology, eye tracking, computational modeling, and artificial intelligence."
+page-layout: full
+toc: false
+---
+
+::: {.hero}
+::: {.hero-copy}
+## Understanding cognition across modalities
+
+We study how the human brain transforms visual information into meaningful representations that support higher-order social cognition, memory, and learning. By integrating human single-neuron recordings, intracranial electrophysiology, fMRI, eye tracking, behavior, and computational modeling, we connect neural activity with cognition in neurotypical individuals and in individuals with schizophrenia or autism.
+
+[Explore our research](research.qmd){.btn .btn-primary .btn-lg}
+[Join the lab](join.qmd){.btn .btn-outline-light .btn-lg}
+:::
+
+::: {.hero-mark aria-hidden="true"}
+MCN
+:::
+:::
+
+::: {.content-section}
+## A multimodal approach
+
+No single measurement captures cognition in full. Our work combines complementary methods to reveal when, where, and how cognitive processes unfold.
+
+::: {.card-grid}
+::: {.feature-card}
+### Measure
+
+We use fMRI—including high-field imaging—intracranial electrophysiology, human single-neuron recordings, eye tracking, and behavioral experiments to characterize cognition across spatial and temporal scales.
+:::
+
+::: {.feature-card}
+### Model
+
+We develop and test computational models that explain how visual features become object and face representations, memories, judgments, and inferences.
+:::
+
+::: {.feature-card}
+### Integrate
+
+We build reproducible workflows and explore agentic AI as a tool for connecting datasets, analyses, and scientific reasoning.
+:::
+:::
+:::
+
+::: {.band}
+::: {.content-section}
+## Science built through collaboration
+
+The MCN Lab is based in the Neuroimaging Labs Research Center at Mallinckrodt Institute of Radiology, WashU Medicine. We value rigorous methods, open and reproducible research, generous collaboration, and an environment in which trainees can develop ambitious interdisciplinary careers.
+
+[Meet the team](people.qmd){.btn .btn-secondary}
+:::
+:::
+
+::: {.content-section}
+## Opportunities
+
+We are recruiting **two postdoctoral researchers** with strong backgrounds in fMRI and/or electrophysiology and an interest in cognitive computational neuroscience. Experience with 7T fMRI, computational modeling, eye tracking, agentic AI, or reproducible data-processing workflows is especially welcome.
+
+[View opportunities](join.qmd){.btn .btn-primary}
+:::

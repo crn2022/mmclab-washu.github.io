@@ -1,0 +1,163 @@
+---
+title: "Publications"
+description: "Complete publication list for Runnan Cao and the Multimodal Cognitive Neuroscience Lab."
+---
+
+This page lists all 32 peer-reviewed articles in Runnan Cao’s July 2026 CV. Current MCN Lab members are shown in **bold**. <sup>*</sup>Equal contribution; <sup>#</sup>co-corresponding author.
+
+[WashU research profile](https://profiles.wustl.edu/en/persons/runnan-cao/){.btn .btn-primary}
+[ORCID](https://orcid.org/0000-0001-5827-9903){.btn .btn-outline-primary}
+
+## 2026
+
+::: {.publication}
+**Li Y**, Zhang J, Brunner P, Willie J, **Cao R**<sup>#</sup>, Wang S<sup>#</sup>. Theta synchronization coordinates ventral temporal and medial temporal coding of human face familiarity. *Cell Reports*. In press (2026).
+:::
+
+::: {.publication}
+Mao A, **Cao R**, Sun S, Wang S, Oh D. Physiological encoding of social evaluation: Modeling eye movements, pupillary, and neuronal responses to faces. *Journal of Neuroscience*. In press (2026).
+:::
+
+::: {.publication}
+**Cao R**<sup>#</sup>, Wang S<sup>#</sup>. Computational mechanisms transforming visual codes into sparse representations. *Neuroscience & Biobehavioral Reviews*. 187, 106782. [DOI](https://doi.org/10.1016/j.neubiorev.2026.106782)
+:::
+
+::: {.publication}
+**Cao R**<sup>#</sup>, Zhang J, Zheng J, **Wang Y**, Brunner P, Willie J, Wang S<sup>#</sup>. Computational single-neuron mechanisms of visual object coding in the human temporal lobe. *Nature Communications*. 17, 2234. [DOI](https://doi.org/10.1038/s41467-026-68954-8)
+:::
+
+::: {.publication}
+**Wang Y**<sup>#*</sup>, Brunner P, Willie J, **Cao R**<sup>#</sup>, Wang S<sup>#</sup>. Neural computations of visual, semantic, and memorability features in the human brain. *PLOS Biology*. 24, e3003614. [DOI](https://doi.org/10.1371/journal.pbio.3003614)
+:::
+
+::: {.publication}
+**Wang Y**, Brunner P, Willie J, **Cao R**, Wang S. Single-neuron datasets for linguistic and semantic processing in the human amygdala and hippocampus. *Scientific Data*. 12, 1482. [DOI](https://doi.org/10.1038/s41597-025-05839-3)
+:::
+
+## 2025
+
+::: {.publication}
+Zhang J, **Cao R**, Zhu X, Zhou H, Wang S. Distinct attentional characteristics of neurons with visual feature coding in the primate brain. *Science Advances*. 11, eadq0332. [DOI](https://doi.org/10.1126/sciadv.adq0332)
+:::
+
+::: {.publication}
+**Cao R**<sup>#</sup>, Zhang J, Zheng J, **Wang Y**, Brunner P, Willie JT, Wang S<sup>#</sup>. A neural computational framework for face processing in the human temporal lobe. *Current Biology*. 35, 1765–1778.e6. [DOI](https://doi.org/10.1016/j.cub.2025.02.063)
+:::
+
+::: {.publication}
+**Cao R**<sup>#</sup>, Wang J, Lin C, De Falco E, Peter A, Rey HG, DiCarlo J, Todorov A, Rutishauser U, Li X, Brandmeir NJ, Wang S<sup>#</sup>. Feature-based encoding of face identity by single neurons in the human amygdala and hippocampus. *Nature Human Behaviour*. 9, 1959–1974. [DOI](https://doi.org/10.1038/s41562-025-02218-1)
+:::
+
+::: {.publication}
+**Cao R**<sup>#</sup>, Brunner P, Chakravarthula P, Wahlstrom K, Inman C, Smith E, Li X, Mamelak A, Brandmeir NJ, Rutishauser U, Willie J, Wang S<sup>#</sup>. A neuronal code for object representation and memory in the human amygdala and hippocampus. *Nature Communications*. 16, 1510. [DOI](https://doi.org/10.1038/s41467-025-56793-y)
+:::
+
+::: {.publication}
+**Cao R**<sup>#</sup>, Brunner P, Brandmeir NJ, Willie J, Wang S<sup>#</sup>. A human single-neuron dataset for object recognition. *Scientific Data*. 12, 79. [DOI](https://doi.org/10.1038/s41597-024-04265-1)
+:::
+
+## 2024
+
+::: {.publication}
+Zhao S, **Cao R**, Lin C, Wang S, Yu H. Differences in the link between social trait judgment and socio-emotional experience in neurotypical and autistic individuals. *Scientific Reports*. [DOI](https://doi.org/10.1038/s41598-024-56005-5)
+:::
+
+::: {.publication}
+Wang J, **Cao R**, Chakravarthula P, Brandmeir NJ, Li X, Wang S. A critical period for developing face recognition. *Patterns*. [DOI](https://doi.org/10.1016/j.patter.2023.100895)
+:::
+
+::: {.publication}
+**Wang Y**, **Cao R**<sup>*</sup>, Li X, Wang S. Encoding of visual objects in the human medial temporal lobe. *Journal of Neuroscience*. [DOI](https://doi.org/10.1523/JNEUROSCI.2135-23.2024)
+:::
+
+::: {.publication}
+**Wang Y**<sup>#*</sup>, **Cao R**<sup>#*</sup>, Chakravarthula P, Yu H, Wang S<sup>#</sup>. Atypical neural encoding of faces in individuals with autism spectrum disorder. *Cerebral Cortex*. [DOI](https://doi.org/10.1093/cercor/bhae060)
+:::
+
+::: {.publication}
+**Cao R**<sup>#</sup>, Dubois J, Mamelak A, Adolphs R, Wang S, Rutishauser U<sup>#</sup>. Domain-specific representation of social inference by neurons in the human amygdala and hippocampus. *Science Advances*. 10, eado6166. [DOI](https://doi.org/10.1126/sciadv.ado6166)
+:::
+
+## 2023
+
+::: {.publication}
+Kao H, Yao Y, Yang T, Ziobro J, Zylinski M, Yaqub M, Hu S, **Cao R**, et al. Sudden unexpected death in epilepsy and respiratory defects in a mouse model of DEPDC5-related epilepsy. *Annals of Neurology*. [DOI](https://doi.org/10.1002/ana.26773)
+:::
+
+::: {.publication}
+Wang S, Sun S, **Cao R**, Kar K, Yu H. Multimodal investigations of emotional face processing and social trait judgment of faces. *Annals of the New York Academy of Sciences*. [DOI](https://doi.org/10.1111/nyas.15084)
+:::
+
+::: {.publication}
+Sun S, **Cao R**, Wang S. A uniform human multimodal dataset for emotion perception and judgment. *Scientific Data*. [DOI](https://doi.org/10.1038/s41597-023-02693-z)
+:::
+
+::: {.publication}
+Han C, Donoghue T, **Cao R**, Kunz L, Wang S<sup>#</sup>, Jacobs J<sup>#</sup>. Using multi-task experiments to test principles of hippocampal function. *Hippocampus*. 33, 646–657. [DOI](https://doi.org/10.1002/hipo.23540)
+:::
+
+::: {.publication}
+Donoghue T, **Cao R**<sup>*</sup>, Han C, Holman C, Brandmeir NJ, Wang S<sup>#</sup>, Jacobs J<sup>#</sup>. Single neurons in the human medial temporal lobe flexibly shift representations across spatial and memory tasks. *Hippocampus*. 33, 600–615. [DOI](https://doi.org/10.1002/hipo.23539)
+:::
+
+::: {.publication}
+**Cao R**<sup>#</sup>, Zhang N, Yu H, Webster P, Paul L, Li X, Lin C<sup>#</sup>, Wang S<sup>#</sup>. Comprehensive social trait judgments from faces in autism spectrum disorder. *Psychological Science*. 34, 1121–1145. [DOI](https://doi.org/10.1177/09567976231192236)
+:::
+
+::: {.publication}
+**Cao R**<sup>#</sup>, Wang J, Brunner P, Willie J, Li X, Rutishauser U, Brandmeir NJ, Wang S<sup>#</sup>. Neural mechanisms of face familiarity and learning in the human amygdala and hippocampus. *Cell Reports*. 43, 113520. [DOI](https://doi.org/10.1016/j.celrep.2023.113520)
+:::
+
+## 2022
+
+::: {.publication}
+Yu H<sup>*</sup>, **Cao R**<sup>*</sup>, Lin C, Wang S. Distinct neurocognitive bases for social trait judgments of faces in autism spectrum disorder. *Translational Psychiatry*. 12, 104. [DOI](https://doi.org/10.1038/s41398-022-01870-9)
+:::
+
+::: {.publication}
+Wang J, **Cao R**<sup>*</sup>, Brandmeir NJ, Li X, Wang S. Face identity coding in the deep neural network and primate brain. *Communications Biology*. 5, 611. [DOI](https://doi.org/10.1038/s42003-022-03557-9)
+:::
+
+::: {.publication}
+**Cao R**<sup>#</sup>, Lin C, Brandmeir NJ, Wang S<sup>#</sup>. A human single-neuron dataset for face perception. *Scientific Data*. 9, 365. [DOI](https://doi.org/10.1038/s41597-022-01482-4)
+:::
+
+::: {.publication}
+**Cao R**<sup>#</sup>, Lin C, Hodge J, Li X, Todorov A, Brandmeir NJ, Wang S<sup>#</sup>. A neuronal social trait space for first impressions in the human amygdala and hippocampus. *Molecular Psychiatry*. 27, 3501–3509. [DOI](https://doi.org/10.1038/s41380-022-01583-x)
+:::
+
+## 2021
+
+::: {.publication}
+**Cao R**, Qian C, Ren S, He S, Zhang P. Visual adaptation and 7T fMRI reveal facial identity processing in the human brain under shallow interocular suppression. *NeuroImage*. 244, 118622. [DOI](https://doi.org/10.1016/j.neuroimage.2021.118622)
+:::
+
+::: {.publication}
+**Cao R**<sup>#</sup>, Todorov A, Brandmeir NJ, Wang S<sup>#</sup>. Task modulation of single-neuron activity in the human amygdala and hippocampus. *eNeuro*. 9(1), ENEURO.0398-21.2021. [DOI](https://doi.org/10.1523/ENEURO.0398-21.2021)
+:::
+
+::: {.publication}
+**Cao R**<sup>#</sup>, Li X, Brandmeir NJ, Wang S<sup>#</sup>. Encoding of facial features by single neurons in the human amygdala and hippocampus. *Communications Biology*. 4, 1394. [DOI](https://doi.org/10.1038/s42003-021-02917-1)
+:::
+
+## 2020
+
+::: {.publication}
+**Cao R**<sup>#</sup>, Li X, Todorov A, Wang S<sup>#</sup>. A flexible neural representation of faces in the human brain. *Cerebral Cortex Communications*. [DOI](https://doi.org/10.1093/texcom/tgaa055)
+:::
+
+## 2012
+
+::: {.publication}
+He C, Ding N, Mou X, Xie Z, Si H, Qiu R, Ni S, Zhao H, Lu Y, Yan H, Gao Y, Chen L, Shen X, **Cao R**. Identification of three H1N1 influenza virus groups with natural recombinant genes circulating from 1918 to 2009. *Virology*. 427(1), 60–66. [DOI](https://doi.org/10.1016/j.virol.2012.01.012)
+:::
+
+## Manuscript under review
+
+::: {.publication .publication-under-review}
+Chakravarthula P, **Cao R**, et al. Neuronal burst dynamics in the human amygdala and hippocampus during memory encoding and retrieval. Under review.
+:::
+
+## Data, code, and research resources
+
+We support transparent and reproducible science. Publicly released datasets include large-scale human single-neuron recordings for face perception, object recognition, and linguistic and semantic processing. Links to additional analysis code, software, preprints, and protocols will be added as they become available.
