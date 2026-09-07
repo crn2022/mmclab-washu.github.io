@@ -9,7 +9,7 @@ toc: false
 Neuroimaging Labs Research Center  
 Mallinckrodt Institute of Radiology  
 Washington University School of Medicine in St. Louis  
-East Imaging Building, Room 2218K  
+East Imaging Building  
 4525 Scott Avenue  
 St. Louis, Missouri 63110
 
