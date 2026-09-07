@@ -21,7 +21,6 @@ Experience in one or more of the following areas is especially welcome:
 
 - 7T fMRI
 - Computational modeling
-- Eye tracking
 - Agentic AI and AI-assisted scientific workflows
 - Reproducible neuroimaging or electrophysiology data processing
 - Advanced statistical or machine-learning methods
@@ -36,7 +35,7 @@ Please send the following materials to **r.cao [at] wustl.edu**:
 
 1. A brief cover letter describing your research interests and fit with the lab
 2. Curriculum vitae
-3. Contact information for three references
+3. Contact information for two references
 4. One or two representative publications or preprints
 
 Applications will be reviewed on a rolling basis until the positions are filled.
