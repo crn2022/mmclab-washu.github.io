@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">MCN Lab mark</title>
+  <desc id="desc">A stylized eye containing a neural signal that progresses from sharp neuronal spikes to a smooth population waveform and BOLD voxels.</desc>
+  <circle cx="256" cy="256" r="232" fill="#102a43"/>
+  <path d="M72 256 Q256 104 440 256 Q256 408 72 256 Z" fill="none" stroke="#d9eef1" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M92 260 H126 L143 197 L162 321 L181 227 L200 260 C220 219 241 301 263 260 S307 219 329 260 C344 287 359 284 373 260" fill="none" stroke="#2cb1bc" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="256" cy="260" r="17" fill="#f0b429" stroke="#102a43" stroke-width="7"/>
+  <g fill="#f0b429">
+    <rect x="376" y="220" width="22" height="22" rx="4"/>
+    <rect x="403" y="220" width="17" height="22" rx="4" opacity="0.72"/>
+    <rect x="376" y="247" width="22" height="22" rx="4" opacity="0.72"/>
+    <rect x="403" y="247" width="17" height="22" rx="4" opacity="0.46"/>
+    <rect x="376" y="274" width="22" height="22" rx="4" opacity="0.46"/>
+    <rect x="403" y="274" width="17" height="22" rx="4" opacity="0.24"/>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 300" role="img" aria-labelledby="title desc">
+  <title id="title">MCN Lab reversed logo</title>
+  <desc id="desc">A light MCN Lab logo for use on dark backgrounds.</desc>
+  <g transform="translate(20 20) scale(0.508)">
+    <circle cx="256" cy="256" r="232" fill="#ffffff"/>
+    <path d="M72 256 Q256 104 440 256 Q256 408 72 256 Z" fill="none" stroke="#102a43" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M92 260 H126 L143 197 L162 321 L181 227 L200 260 C220 219 241 301 263 260 S307 219 329 260 C344 287 359 284 373 260" fill="none" stroke="#147d92" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="256" cy="260" r="17" fill="#f0b429" stroke="#ffffff" stroke-width="7"/>
+    <g fill="#f0b429">
+      <rect x="376" y="220" width="22" height="22" rx="4"/>
+      <rect x="403" y="220" width="17" height="22" rx="4" opacity="0.72"/>
+      <rect x="376" y="247" width="22" height="22" rx="4" opacity="0.72"/>
+      <rect x="403" y="247" width="17" height="22" rx="4" opacity="0.46"/>
+      <rect x="376" y="274" width="22" height="22" rx="4" opacity="0.46"/>
+      <rect x="403" y="274" width="17" height="22" rx="4" opacity="0.24"/>
+    </g>
+  </g>
+  <line x1="318" y1="54" x2="318" y2="246" stroke="#8bc7d0" stroke-width="3"/>
+  <text x="366" y="145" font-family="Arial, Helvetica, sans-serif" font-size="90" font-weight="700" letter-spacing="-3" fill="#ffffff">MCN Lab</text>
+  <text x="371" y="196" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" letter-spacing="2.6" fill="#b8f0f2">MULTIMODAL COGNITIVE NEUROSCIENCE</text>
+</svg>

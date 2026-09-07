@@ -10,33 +10,33 @@ toc: false
 ::: {.hero-copy}
 ## Understanding cognition across modalities
 
-We study how the human brain transforms visual information into meaningful representations that support higher-order social cognition, memory, and learning. By integrating human single-neuron recordings, intracranial electroencephalography, fMRI, eye tracking, behavior, and computational modeling, we connect neural activity with cognition in neurotypical individuals and in individuals with schizophrenia or autism.
+We study how the human brain transforms visual information into meaningful representations that support higher-order social cognition, memory, and learning. By integrating human single-neuron recordings, iEEG, fMRI, eye tracking, behavior, and computational modeling, we connect neural activity with cognition in neurotypical individuals and in individuals with schizophrenia or autism.
 
 [Explore our research](research.qmd){.btn .btn-primary .btn-lg}
 [Join the lab](join.qmd){.btn .btn-outline-light .btn-lg}
 :::
 
-::: {.hero-mark aria-hidden="true"}
-MCN
+::: {.hero-mark}
+![MCN Lab logo mark](images/mcn-lab-mark.svg){.hero-logo}
 :::
 :::
 
 ::: {.content-section}
 ## A multimodal approach
 
-No single measurement captures cognition in full. We combine complementary methods to reveal when, where, and how cognitive processes unfold.
+No single measurement captures cognition in full. Our work combines complementary methods to reveal when, where, and how cognitive processes unfold.
 
 ::: {.card-grid}
 ::: {.feature-card}
 ### Measure
 
-We use fMRI (3T and 7T), intracranial electrophysiology, human single-neuron recordings, eye tracking, and behavioral experiments to characterize cognition across spatial and temporal scales.
+We use iEEG, human single-neuron recordings, 3T and 7T fMRI, eye tracking, and behavioral experiments to characterize cognition across spatial and temporal scales.
 :::
 
 ::: {.feature-card}
 ### Model
 
-We develop and test computational models that explain how visual features become object and face representations, judgments, memories, and inferences.
+We develop and test computational models that explain how visual features become object and face representations, memories, judgments, and inferences.
 :::
 
 ::: {.feature-card}
@@ -60,7 +60,7 @@ The MCN Lab is based in the Neuroimaging Labs Research Center at Mallinckrodt In
 ::: {.content-section}
 ## Opportunities
 
-We are recruiting **two postdoctoral researchers** with strong backgrounds in fMRI and/or electrophysiology and an interest in cognitive computational neuroscience. Experience with 7T fMRI, computational modeling, computer science, or reproducible data-processing workflows is especially welcome.
+We are recruiting **two postdoctoral researchers** with strong backgrounds in fMRI and/or electrophysiology and an interest in cognitive computational neuroscience. Experience with 7T fMRI, computational modeling, agentic AI, or reproducible data-processing workflows is especially welcome.
 
 [View opportunities](join.qmd){.btn .btn-primary}
 :::

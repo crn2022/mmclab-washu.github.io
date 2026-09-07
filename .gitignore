@@ -3,3 +3,5 @@
 /pip-metadata-*/
 /pip-unpack-*/
 .DS_Store
+
+**/*.quarto_ipynb

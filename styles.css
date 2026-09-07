@@ -107,10 +107,13 @@ button:focus-visible {
   box-shadow:
     0 0 0 1.2rem rgba(255, 255, 255, 0.07),
     0 0 0 2.5rem rgba(255, 255, 255, 0.035);
-  color: var(--mcn-white);
-  font-size: clamp(2.3rem, 5vw, 4.4rem);
-  font-weight: 800;
-  letter-spacing: 0.08em;
+}
+
+.hero-logo {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
 }
 
 .content-section {
@@ -157,11 +160,116 @@ button:focus-visible {
 }
 
 .research-grid {
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: 1fr;
+  width: min(1100px, calc(100vw - 3rem));
+  margin: 2rem 0 3rem 50%;
+  transform: translateX(-50%);
 }
 
 .research-card {
   border-left: 5px solid var(--mcn-blue);
+}
+
+.research-card h4 {
+  margin-top: 1.35rem;
+  margin-bottom: 0.6rem;
+  color: var(--mcn-navy);
+  font-size: 1rem;
+}
+
+.research-card ul {
+  margin-bottom: 0;
+  padding-left: 1.15rem;
+}
+
+.research-card li + li {
+  margin-top: 0.65rem;
+}
+
+.theme-figure {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0.9rem 0 1.25rem;
+  border: 1px solid #d9e2ec;
+  border-radius: calc(var(--mcn-radius) * 0.75);
+  background: var(--mcn-white);
+}
+
+.research-question-list {
+  margin: 2.2rem 0 3.2rem;
+  padding: 1.5rem 1.7rem 1.25rem;
+  border-left: 5px solid var(--mcn-teal);
+  border-radius: 0 var(--mcn-radius) var(--mcn-radius) 0;
+  background: var(--mcn-pale);
+}
+
+.research-question-list h3 {
+  margin-top: 0;
+}
+
+.research-question-list ol {
+  margin-bottom: 0;
+  padding-left: 1.25rem;
+}
+
+.research-question-list li {
+  margin-bottom: 0.75rem;
+  padding-left: 0.35rem;
+}
+
+.research-direction {
+  width: min(1080px, calc(100vw - 22rem));
+  margin: 3rem 0 4.5rem 50%;
+  padding: clamp(1.5rem, 4vw, 3rem);
+  transform: translateX(-50%);
+  border: 1px solid #d9e2ec;
+  border-top: 6px solid var(--mcn-blue);
+  border-radius: var(--mcn-radius);
+  background: #f8fafc;
+}
+
+.research-direction > h2:first-child {
+  margin-top: 0;
+  font-size: clamp(1.8rem, 3.2vw, 2.6rem);
+}
+
+.research-direction h3 {
+  margin-top: 2rem;
+  font-size: 1.22rem;
+}
+
+.direction-figure {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 1.5rem 0 2rem;
+  border: 1px solid #d9e2ec;
+  border-radius: var(--mcn-radius);
+  background: var(--mcn-white);
+  box-shadow: 0 14px 35px rgba(16, 42, 67, 0.1);
+}
+
+.key-publications {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.key-paper {
+  padding: 1rem 1.1rem;
+  border-left: 4px solid var(--mcn-teal);
+  border-radius: 0.55rem;
+  background: var(--mcn-white);
+  box-shadow: 0 8px 22px rgba(16, 42, 67, 0.07);
+}
+
+.key-paper p {
+  margin: 0;
+}
+
+.key-paper p + p {
+  margin-top: 0.35rem;
 }
 
 .modality-grid {
@@ -335,8 +443,18 @@ button:focus-visible {
   .card-grid,
   .research-grid,
   .people-grid,
-  .modality-grid {
+  .modality-grid,
+  .key-publications {
     grid-template-columns: 1fr;
+  }
+
+  .research-grid {
+    width: min(100%, calc(100vw - 2rem));
+  }
+
+  .research-direction {
+    width: min(100%, calc(100vw - 2rem));
+    padding: 1.35rem;
   }
 
   .research-schematic {

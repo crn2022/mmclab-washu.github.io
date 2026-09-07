@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">Comparative study of visual and social computations across participant groups</title>
+  <desc id="desc">Matched visual and social tasks are studied in neurotypical participants and individuals with autism or schizophrenia using 3T and 7T fMRI, eye tracking, behavior, and computational models to compare representations and networks.</desc>
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7fbfc"/>
+      <stop offset="1" stop-color="#eef5f0"/>
+    </linearGradient>
+    <marker id="arrow3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#486581"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="620" rx="28" fill="#f7fbfc"/>
+
+  <text x="172" y="48" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#102a43">Shared visual and</text>
+  <text x="172" y="73" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#102a43">social tasks</text>
+  <rect x="54" y="92" width="236" height="260" rx="24" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <circle cx="118" cy="170" r="37" fill="#f3d7bd"/>
+  <circle cx="105" cy="168" r="4" fill="#102a43"/>
+  <circle cx="131" cy="168" r="4" fill="#102a43"/>
+  <path d="M105 191 Q118 201 131 191" fill="none" stroke="#102a43" stroke-width="3"/>
+  <rect x="175" y="135" width="57" height="57" rx="10" fill="#8bd1d5" transform="rotate(12 203 163)"/>
+  <path d="M91 265 L118 226 L145 265 Z" fill="#f0b429"/>
+  <circle cx="204" cy="247" r="27" fill="#b9a7df"/>
+  <text x="172" y="316" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#243b53">recognition · traits · emotion</text>
+
+  <path d="M306 222 H366" stroke="#486581" stroke-width="5" marker-end="url(#arrow3)"/>
+  <polygon points="358,212 376,222 358,232" fill="#486581"/>
+  <text x="552" y="61" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#102a43">Participant groups</text>
+  <rect x="376" y="92" width="350" height="260" rx="24" fill="#ffffff" stroke="#8bc7d0" stroke-width="3"/>
+  <circle cx="440" cy="159" r="31" fill="#d9eef1"/>
+  <circle cx="440" cy="148" r="12" fill="#147d92"/>
+  <path d="M416 184 Q440 159 464 184" fill="#147d92"/>
+  <text x="490" y="167" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#243b53">Neurotypical participants</text>
+  <circle cx="440" cy="227" r="31" fill="#ede7f6"/>
+  <circle cx="440" cy="216" r="12" fill="#6954a3"/>
+  <path d="M416 252 Q440 227 464 252" fill="#6954a3"/>
+  <text x="490" y="235" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#243b53">Individuals with autism</text>
+  <circle cx="440" cy="295" r="31" fill="#fff0c7"/>
+  <circle cx="440" cy="284" r="12" fill="#b7791f"/>
+  <path d="M416 320 Q440 295 464 320" fill="#b7791f"/>
+  <text x="490" y="291" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#243b53">Individuals with</text>
+  <text x="490" y="313" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#243b53">schizophrenia</text>
+  <text x="552" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#627d98">within-group variation remains central</text>
+
+  <path d="M742 222 H802" stroke="#486581" stroke-width="5" marker-end="url(#arrow3)"/>
+  <polygon points="794,212 812,222 794,232" fill="#486581"/>
+  <text x="979" y="48" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#102a43">Matched multimodal</text>
+  <text x="979" y="73" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#102a43">measurement</text>
+  <rect x="812" y="92" width="334" height="260" rx="24" fill="#ffffff" stroke="#c7b9e5" stroke-width="3"/>
+  <rect x="846" y="126" width="121" height="74" rx="16" fill="#e8f5f6"/>
+  <text x="906" y="157" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#147d92">3T fMRI</text>
+  <text x="906" y="182" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#627d98">whole networks</text>
+  <rect x="991" y="126" width="121" height="74" rx="16" fill="#ede7f6"/>
+  <text x="1052" y="157" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#6954a3">7T fMRI</text>
+  <text x="1052" y="182" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#627d98">fine-grained maps</text>
+  <rect x="846" y="222" width="121" height="74" rx="16" fill="#fff0c7"/>
+  <text x="906" y="253" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#a46700">Eye tracking</text>
+  <text x="906" y="278" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#627d98">gaze and pupil</text>
+  <rect x="991" y="222" width="121" height="74" rx="16" fill="#dff3e4"/>
+  <text x="1052" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#287d3c">Behavior</text>
+  <text x="1052" y="273" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#627d98">judgments</text>
+  <text x="1052" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#627d98">and learning</text>
+
+  <text x="54" y="419" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#102a43">Test what is shared, what differs, and how individual variation matters</text>
+  <rect x="54" y="452" width="1092" height="120" rx="24" fill="#102a43"/>
+  <text x="233" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">Representational geometry</text>
+  <line x1="380" y1="483" x2="380" y2="544" stroke="#486581" stroke-width="2"/>
+  <text x="558" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">Network coordination</text>
+  <line x1="730" y1="483" x2="730" y2="544" stroke="#486581" stroke-width="2"/>
+  <text x="929" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">Brain–behavior relationships</text>
+  <text x="600" y="548" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#b8f0f2">computational models anchored to intracranial reference data</text>
+</svg>

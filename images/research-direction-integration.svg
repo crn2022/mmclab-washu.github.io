@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">Quantitative integration across neural scales</title>
+  <desc id="desc">Single-neuron activity, local field potentials and intracranial EEG, 7T fMRI, and 3T fMRI converge through matched experiments and shared computational models to produce a coherent account of what visual information is represented, where and when it is transformed, and how it varies across people.</desc>
+  <defs>
+    <marker id="integration-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0 0 L10 5 L0 10 Z" fill="#486581"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="620" rx="28" fill="#f7fbfc"/>
+
+  <text x="600" y="49" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#102a43">Complementary measurements of the same neural system</text>
+
+  <rect x="44" y="82" width="250" height="188" rx="22" fill="#ffffff" stroke="#8bc7d0" stroke-width="3"/>
+  <text x="169" y="116" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#102a43">Single neurons</text>
+  <line x1="76" y1="201" x2="261" y2="201" stroke="#9fb3c8" stroke-width="2"/>
+  <g stroke="#147d92" stroke-width="4">
+    <line x1="91" y1="201" x2="91" y2="150"/><line x1="116" y1="201" x2="116" y2="174"/>
+    <line x1="143" y1="201" x2="143" y2="137"/><line x1="151" y1="201" x2="151" y2="165"/>
+    <line x1="183" y1="201" x2="183" y2="154"/><line x1="219" y1="201" x2="219" y2="130"/>
+    <line x1="230" y1="201" x2="230" y2="169"/>
+  </g>
+  <text x="169" y="242" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#627d98">content · selectivity · timing</text>
+
+  <rect x="331" y="82" width="250" height="188" rx="22" fill="#ffffff" stroke="#8bc7d0" stroke-width="3"/>
+  <text x="456" y="116" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#102a43">LFP and iEEG</text>
+  <path d="M363 177 C379 124 397 230 414 176 S448 229 466 174 S502 227 520 171 S543 207 551 184" fill="none" stroke="#2cb1bc" stroke-width="5" stroke-linecap="round"/>
+  <path d="M363 211 C384 194 403 226 423 209 S463 226 483 207 S523 220 551 202" fill="none" stroke="#6954a3" stroke-width="4" stroke-linecap="round"/>
+  <text x="456" y="242" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#627d98">population dynamics · coordination</text>
+
+  <rect x="618" y="82" width="250" height="188" rx="22" fill="#ffffff" stroke="#c7b9e5" stroke-width="3"/>
+  <text x="743" y="116" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#102a43">7T fMRI</text>
+  <g transform="translate(687 142)">
+    <rect width="112" height="74" rx="10" fill="#ede7f6" stroke="#6954a3" stroke-width="2"/>
+    <g fill="#a996d5">
+      <rect x="9" y="9" width="14" height="14"/><rect x="27" y="9" width="14" height="14"/><rect x="45" y="9" width="14" height="14"/><rect x="63" y="9" width="14" height="14"/><rect x="81" y="9" width="14" height="14"/>
+      <rect x="9" y="27" width="14" height="14"/><rect x="27" y="27" width="14" height="14" fill="#6954a3"/><rect x="45" y="27" width="14" height="14" fill="#f0b429"/><rect x="63" y="27" width="14" height="14" fill="#6954a3"/><rect x="81" y="27" width="14" height="14"/>
+      <rect x="9" y="45" width="14" height="14"/><rect x="27" y="45" width="14" height="14"/><rect x="45" y="45" width="14" height="14" fill="#6954a3"/><rect x="63" y="45" width="14" height="14"/><rect x="81" y="45" width="14" height="14"/>
+    </g>
+  </g>
+  <text x="743" y="242" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#627d98">fine-grained organization</text>
+
+  <rect x="905" y="82" width="250" height="188" rx="22" fill="#ffffff" stroke="#f0b429" stroke-width="3"/>
+  <text x="1030" y="116" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#102a43">3T fMRI</text>
+  <g fill="none" stroke="#b7791f" stroke-width="3">
+    <ellipse cx="1030" cy="178" rx="72" ry="48"/>
+    <path d="M968 178 C994 151 1015 151 1030 178 S1068 205 1092 178"/>
+    <path d="M988 145 C1010 171 1052 171 1073 145"/>
+  </g>
+  <g fill="#f0b429">
+    <circle cx="976" cy="173" r="7"/><circle cx="1012" cy="151" r="7"/><circle cx="1047" cy="181" r="7"/><circle cx="1080" cy="158" r="7"/><circle cx="1024" cy="210" r="7"/>
+  </g>
+  <text x="1030" y="242" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#627d98">distributed whole-brain networks</text>
+
+  <path d="M169 278 V321 H420" fill="none" stroke="#486581" stroke-width="4" marker-end="url(#integration-arrow)"/>
+  <path d="M456 278 V321 H475" fill="none" stroke="#486581" stroke-width="4" marker-end="url(#integration-arrow)"/>
+  <path d="M743 278 V321 H725" fill="none" stroke="#486581" stroke-width="4" marker-end="url(#integration-arrow)"/>
+  <path d="M1030 278 V321 H780" fill="none" stroke="#486581" stroke-width="4" marker-end="url(#integration-arrow)"/>
+
+  <rect x="420" y="298" width="360" height="134" rx="28" fill="#102a43"/>
+  <text x="600" y="340" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#ffffff">Cross-scale alignment</text>
+  <text x="600" y="375" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#d9eef1">matched stimuli and tasks</text>
+  <text x="600" y="404" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#d9eef1">shared feature spaces · cross-modal prediction</text>
+
+  <path d="M600 438 V480" stroke="#486581" stroke-width="5" marker-end="url(#integration-arrow)"/>
+  <rect x="188" y="492" width="824" height="88" rx="24" fill="#e8f5f6" stroke="#147d92" stroke-width="3"/>
+  <text x="600" y="528" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#102a43">A coherent mechanistic account</text>
+  <text x="600" y="559" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#147d92">what is represented · where and when it is transformed · how it varies across people</text>
+</svg>

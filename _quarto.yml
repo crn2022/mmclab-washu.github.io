@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Multimodal Cognitive Neuroscience Lab"
+  favicon: "images/mcn-lab-mark.svg"
   site-url: "https://crn2022.github.io/mmclab-washu.github.io/"
   description: "The MCN Lab at WashU Medicine studies how the human brain transforms visual information into meaningful representations supporting social cognition, memory, and learning."
   open-graph: true
@@ -11,6 +12,8 @@ website:
   back-to-top-navigation: true
   navbar:
     title: "MCN Lab"
+    logo: "images/mcn-lab-mark.svg"
+    logo-alt: "MCN Lab"
     background: "#102a43"
     foreground: "#ffffff"
     left:
