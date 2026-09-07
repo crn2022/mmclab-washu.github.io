@@ -1,15 +1,15 @@
 ---
 title: "Research"
-description: "Research themes and methods in the Multimodal Cognitive Neuroscience Lab."
+description: "Research topics and methods in the Multimodal Cognitive Neuroscience Lab."
 ---
 
 ## Our goal
 
-The central question of the Multimodal Cognitive Neuroscience Lab is how the human brain transforms visual information into meaningful representations that support higher-order social cognition, memory, and learning. We study these transformations in neurotypical individuals and in individuals with schizophrenia or autism.
+The central question of the Multimodal Cognitive Neuroscience Lab is how people use visual information to navigate the complex social world. Specifically, we aim to understand the neural computations and network-level dynamics that transform detailed visual representations of faces and objects into meaningful representations of identity, social evaluation, and memory. We are also interested in examining how this process distorted in individuals with neuropsychiatric disorders, such as schizophrenia and autism.
 
 ## Complementary modalities
 
-Each method captures a different aspect of the transformation from visual input to meaningful cognition.
+We use a multimodal neuroscience platform, capable of capturing neural signals across multiple spatial scales, spanning microscopic (single neuron and local field potential) to mesoscopic (iEEG and 7T fMRI), and to macroscopic (3T fMRI) levels. These signals are combined with computational modeling, eye tracking, and behavioral measurement to delineate neurocomputational and circuit-level mechanisms across multiple spatial scales underlying human cognition. 
 
 ::: {.modality-grid}
 ::: {.modality-panel}
@@ -21,34 +21,22 @@ Research recordings in clinical patient rooms combine single-neuron activity, lo
 :::
 
 ::: {.modality-panel}
-![A participant in a 7T MRI scanner beside a rendered brain composed of fine BOLD voxels with localized activation.](images/modality-7t-fmri-v1.webp){.modality-image}
+![A participant in an MRI scanner beside a rendered brain composed of fine BOLD voxels with localized activation.](images/modality-7t-fmri-v1.webp){.modality-image}
 
-### 7T functional MRI
+### Functional MRI
 
 Ultra-high-field fMRI maps fine-grained BOLD responses and distributed representations across the human brain.
 :::
 
-::: {.modality-panel}
-![A participant views faces and objects on a monitor while a remote eye tracker measures gaze paths, fixations, and pupil dynamics.](images/modality-eye-tracking-v1.webp){.modality-image}
-
-### Eye tracking
-
-Gaze position, fixation patterns, and pupil dynamics reveal how people sample visual information and allocate attention.
-:::
 
 ::: {.modality-panel}
 ![A participant performs a visual decision task using a response box while behavioral distributions and performance summaries are visualized.](images/modality-behavior-v1.webp){.modality-image}
 
-### Behavioral experiments
-
-Controlled tasks quantify visual recognition, social judgments, memory, learning, accuracy, and decision time.
-:::
-:::
 
 ## Integration across modalities
 
 ::: {.integration-panel}
-![Visual features such as eyes, mouths, faces, objects, colors, and shapes flow into a rendered brain and are linked with neuronal spikes, local field potentials, gaze measurements, and BOLD voxels; meaningful outputs include person and object recognition, social interaction, contextual recollection, and learning across three participant groups.](images/modality-integration-v1.webp){.integration-image}
+![Visual features such as shapes, textures, and colors flow into a rendered brain and are linked with neuronal spikes, local field potentials, gaze measurements, and BOLD voxels; meaningful outputs include person and object recognition, social interaction, and learning across three participant groups.](images/modality-integration-v1.webp){.integration-image}
 
 ::: {.integration-copy}
 We combine neural recordings, ultra-high-field imaging, eye tracking, behavior, and computational modeling to explain how visual features become identities, concepts, memories, learned representations, and social inferences.
@@ -61,51 +49,30 @@ We combine neural recordings, ultra-high-field imaging, eye tracking, behavior, 
 
 ::: {.research-grid}
 ::: {.research-card}
-### From visual features to meaning
+### Face and object perception
 
-How does the brain transform eyes, mouths, shapes, and other visual features into stable representations of people, objects, identities, and concepts? We study this transformation across visual, temporal, and medial temporal systems.
+How does the brain transform detailed visual information into stable representations of identities, concepts, and social attributes? We study this transformation across a distributed network spanning ventral temporal, medial temporal, and prefrontal areas by surveying the distribution of coding schemes and interareal interactions. 
 :::
 
 ::: {.research-card}
-### Memory and learning
+### Social inferences
 
-We investigate how visual experience builds and updates meaningful representations, how those representations support memory, and how learning changes neural codes over time.
+Beyond recognizing identities, we spontaneously observe people’s emotional states and form first impressions from faces. These inferences are context-dependent and influenced by factors such as task demands and prior experience. How the underlying neural computations and functional connectivity change across different task contexts, such as emotion and social trait inferences? How face representations evolve dynamically under naturalistic viewing conditions? To address these questions, we will: 1) quantify and compare neural face models across multiple task contexts, including free viewing, emotion recognition, and social trait judgment; 2) examine dynamic neural computations using naturalistic video stimuli; 3) investigate context-dependent reconfiguration of functional networks. 
 :::
 
-::: {.research-card}
-### Higher-order social cognition
-
-Faces and gestures let us infer the traits, emotions, thoughts, and intentions of other people. We investigate the neural population codes and computations that support these rapid social evaluations.
-:::
 
 ::: {.research-card}
-### Individual and clinical variation
+### Neuropyschiatric disorders
 
-We compare neurotypical individuals with individuals with schizophrenia or autism to understand both shared mechanisms and meaningful variation in visual and social cognition.
+Social deficits are hallmark features of various neurodevelopment and psychiatric disorders, including autism and SCZ, both of which have been broadly associated with atypical face processing. However, the neural computational mechanisms underlying these impairments remain largely unclear. We aim to test how computational frameworks of face and object established in neurotypical populations distort in these clinical conditions and associate with social dysfunction. 
 :::
 
 ::: {.research-card}
 ### Multimodal integration
 
-Single-neuron recordings, iEEG, fMRI, eye tracking, and behavior reveal different aspects of the same system. We develop quantitative approaches that align these scales into coherent mechanistic accounts.
+Single-neuron recordings, iEEG, and fMRI reveal different aspects of the same neural system across space and time. We are developing quantitative approaches that align these scales into coherent mechanistic accounts of how visual information becomes meaningful. We aim to determine whether measurements made at different scales support the same computational explanation, from the selectivity of individual neurons, through the timing and coordination of local and distributed neural populations, to the fine-grained and whole-brain organization measured with fMRI. 
 :::
 
-::: {.research-card}
-### Reproducible and AI-assisted science
-
-We develop transparent workflows for complex neuroscience data and investigate carefully evaluated uses of agentic AI in data processing, model development, and scientific reasoning.
-:::
-:::
-
-## Methods
-
-- Human single-neuron recordings
-- Intracranial EEG and temporally resolved neural measurements
-- Functional MRI, including opportunities for high-field 7T imaging
-- Eye tracking and quantitative behavioral experiments
-- Computational modeling, machine learning, and deep neural networks
-- Multimodal data integration
-- Reproducible data processing and agent-assisted research workflows
 
 ## Collaborative environment
 
