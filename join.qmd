@@ -1,6 +1,6 @@
 ---
 title: "Join Us"
-description: "Postdoctoral and trainee opportunities in the Multimodal Cognitive Neuroscience Lab."
+description: "Postdoctoral, undergraduate, and trainee opportunities in the Multimodal Cognitive Neuroscience Lab."
 ---
 
 ## Postdoctoral opportunities
@@ -44,6 +44,21 @@ Appointment details, start dates, compensation, benefits, and formal application
 
 Washington University in St. Louis is committed to the principles and practices of equal employment opportunity. Qualified applicants receive consideration without regard to race, ethnicity, color, national origin, citizenship where protected by law, age, religion, sex, sexual orientation, gender identity or expression, disability, protected veteran status, or genetic information.
 
-## Students and research staff
+## Undergraduate research assistants
+
+We welcome WashU undergraduate students interested in **neuroimaging, cognitive neuroscience, or computational neuroscience** to inquire about joining the lab as research assistants. Depending on their interests, experience, and current projects, undergraduate researchers may contribute to studies of visual and social cognition through neuroimaging data acquisition and analysis, behavioral task development, computational modeling, and scientific programming.
+
+Prior experience with every method is not expected. We value intellectual curiosity, reliability, attention to detail, willingness to learn, and the ability to make a sustained commitment to research. Opportunities depend on project fit, mentoring capacity, and availability.
+
+### How to inquire
+
+Please email **r.cao [at] wustl.edu** with:
+
+1. A brief introduction and explanation of why you are interested in the lab
+2. Your research interests and any relevant coursework or experience
+3. A résumé or curriculum vitae
+4. Your anticipated weekly availability and the length of time you hope to participate
+
+## Other students and research staff
 
 Prospective students and research staff may contact us with a concise description of their interests, relevant experience, and availability. Openings will be posted here when available.
