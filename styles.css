@@ -161,9 +161,8 @@ button:focus-visible {
 
 .research-grid {
   grid-template-columns: 1fr;
-  width: min(1100px, calc(100vw - 3rem));
-  margin: 2rem 0 3rem 50%;
-  transform: translateX(-50%);
+  width: 100%;
+  margin: 2rem 0 3rem;
 }
 
 .research-card {
@@ -189,7 +188,9 @@ button:focus-visible {
 .theme-figure {
   display: block;
   width: 100%;
+  max-width: 100%;
   height: auto;
+  box-sizing: border-box;
   margin: 0.9rem 0 1.25rem;
   border: 1px solid #d9e2ec;
   border-radius: calc(var(--mcn-radius) * 0.75);
@@ -276,9 +277,8 @@ button:focus-visible {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 1.5rem;
-  width: min(1320px, calc(100vw - 2rem));
-  margin: 2rem 0 3rem 50%;
-  transform: translateX(-50%);
+  width: 100%;
+  margin: 2rem 0 3rem;
 }
 
 .modality-panel,
@@ -315,9 +315,8 @@ button:focus-visible {
 }
 
 .integration-panel {
-  width: min(1320px, calc(100vw - 2rem));
-  margin: 2rem 0 3rem 50%;
-  transform: translateX(-50%);
+  width: 100%;
+  margin: 2rem 0 3rem;
 }
 
 .integration-copy {
@@ -449,7 +448,7 @@ button:focus-visible {
   }
 
   .research-grid {
-    width: min(100%, calc(100vw - 2rem));
+    width: 100%;
   }
 
   .research-direction {
