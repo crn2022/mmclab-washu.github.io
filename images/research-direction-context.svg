@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
   <title id="title">Context-dependent computations for flexible social cognition</title>
   <desc id="desc">Faces and naturalistic video are interpreted under different task contexts, producing changes in population geometry, oscillatory coupling, and network configuration measured with intracranial recordings, eye tracking, and behavior.</desc>
   <defs>
@@ -10,7 +10,7 @@
       <path d="M 0 0 L 10 5 L 0 10 z" fill="#486581"/>
     </marker>
   </defs>
-  <rect width="1200" height="620" rx="28" fill="#f7fbfc"/>
+  <rect width="1200" height="430" rx="28" fill="#f7fbfc"/>
 
   <text x="180" y="49" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#102a43">Dynamic visual</text>
   <text x="180" y="74" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#102a43">information</text>
@@ -54,13 +54,4 @@
   <text x="944" y="334" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#243b53">population geometry · oscillations · networks</text>
   <text x="944" y="366" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#627d98">representations reconfigure with context</text>
 
-  <text x="58" y="461" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#102a43">Simultaneous measurements connect information sampling to neural dynamics</text>
-  <rect x="58" y="492" width="1084" height="82" rx="22" fill="#102a43"/>
-  <text x="193" y="542" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">single neurons</text>
-  <circle cx="330" cy="533" r="5" fill="#2cb1bc"/>
-  <text x="455" y="542" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">LFP and iEEG</text>
-  <circle cx="592" cy="533" r="5" fill="#2cb1bc"/>
-  <text x="720" y="542" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">eye tracking</text>
-  <circle cx="841" cy="533" r="5" fill="#2cb1bc"/>
-  <text x="985" y="542" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">behavior</text>
 </svg>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
   <title id="title">Multiscale neural coding from visual features to meaning</title>
   <desc id="desc">A conceptual pathway from faces and objects through ventral temporal, superior temporal, and medial temporal regions, linking axis-based visual codes to sparse meaningful representations across single-neuron, intracranial EEG, 7T fMRI, and 3T fMRI scales.</desc>
   <defs>
@@ -10,7 +10,7 @@
       <path d="M 0 0 L 10 5 L 0 10 z" fill="#486581"/>
     </marker>
   </defs>
-  <rect width="1200" height="620" rx="28" fill="#f7fbfc"/>
+  <rect width="1200" height="380" rx="28" fill="#f7fbfc"/>
 
   <text x="54" y="56" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#102a43">Visual input</text>
   <rect x="54" y="86" width="190" height="264" rx="24" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
@@ -66,18 +66,4 @@
   <text x="1038" y="320" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#a46700">Region and sparse</text>
   <text x="1038" y="341" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#a46700">codes</text>
 
-  <text x="54" y="410" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#102a43">Bridge spatial scales with matched stimuli and computational models</text>
-  <line x1="86" y1="492" x2="1110" y2="492" stroke="#9fb3c8" stroke-width="8" stroke-linecap="round"/>
-  <circle cx="130" cy="492" r="23" fill="#147d92"/>
-  <circle cx="405" cy="492" r="23" fill="#2cb1bc"/>
-  <circle cx="775" cy="492" r="23" fill="#6954a3"/>
-  <circle cx="1070" cy="492" r="23" fill="#f0b429"/>
-  <text x="130" y="542" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#243b53">Single neurons</text>
-  <text x="405" y="542" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#243b53">LFP and iEEG</text>
-  <text x="775" y="542" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#243b53">7T fMRI</text>
-  <text x="1070" y="542" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#243b53">3T fMRI</text>
-  <text x="130" y="574" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#627d98">microscopic</text>
-  <text x="405" y="574" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#627d98">mesoscopic</text>
-  <text x="775" y="574" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#627d98">fine-grained</text>
-  <text x="1070" y="574" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#627d98">whole-network</text>
 </svg>
